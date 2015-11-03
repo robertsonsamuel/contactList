@@ -43,8 +43,6 @@ function getInfo () {
   var $dateInBox = $('#datepicker').val(); //date in string form
   var $textTodo = $('#textfield').val();
 
-
-
   var $row = $('<tr>').addClass('unchecked');
   var $date = $('<td class="dateInput">' + $dateInBox + '</td>');
   var $text = $('<td class="textInput">' + $textTodo + '</td>');

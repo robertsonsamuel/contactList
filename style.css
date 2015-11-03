@@ -14,11 +14,13 @@ tr,td{
   margin: 0 auto;
 
 }
+.checkbox{
+  margin-top: 0px;
+}
 .head{
   padding-bottom: 30px;
   margin: 0 auto;
   position: absolute;
   top:0;right: 0;left: 0;
   text-align: center;
-}
 }
