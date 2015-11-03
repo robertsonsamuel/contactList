@@ -4,6 +4,9 @@
 // checked items can be edited
 
 
+// this works if you refresh the page, I can't get the onclick event to
+// to function in the init, worked with Sanky and we were both stumped.
+
 $(document).ready(init);
 
 //JSON.parse(localStorage.contacts || "[]"); //contact list array, holds many people
