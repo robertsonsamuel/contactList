@@ -5,7 +5,10 @@
   top:0;right: 0;left: 0;
   text-align: center;
 }
+#checkall{
 
+  margin 0 auto;
+}
 tr,td{
   text-align: center;
   margin: 0 auto;
