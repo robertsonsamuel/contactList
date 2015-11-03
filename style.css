@@ -1,0 +1,21 @@
+.container{
+  padding-top: 20px;
+  margin: 0 auto;
+  position: absolute;
+  top:0;right: 0;left: 0;
+  text-align: center;
+}
+
+tr,td{
+  text-align: center;
+  margin: 0 auto;
+
+}
+.head{
+  padding-bottom: 30px;
+  margin: 0 auto;
+  position: absolute;
+  top:0;right: 0;left: 0;
+  text-align: center;
+}
+}
